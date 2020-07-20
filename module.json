@@ -1,0 +1,53 @@
+{
+  "name": "sw5e",
+  "title": "SW5E",
+  "description": "<p>A Compendium of Weapons and Items from SW5E</p>",
+  "version": "1.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.0",
+  "author": "Kakeman89 + WhtWlf",
+  "packs": [
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "path": "/packs/weapons.db",
+      "entity": "Item"
+    },
+    {
+      "name": "adventuringgear",
+      "label": "Adventuring Gear",
+      "path": "/packs/adventuringgear.db",
+      "entity": "Item"
+    },
+    {
+      "name": "armor",
+      "label": "Armor",
+      "path": "/packs/armor.db",
+      "entity": "Item"
+    },
+    {
+      "name": "enhanceditems",
+      "label": "Enhanced Items",
+      "path": "/packs/enhanceditems.db",
+      "entity": "Item"
+    },
+    {
+      "name": "gamingset",
+      "label": "Gaming Sets",
+      "path": "/packs/gamingset.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "/packs/classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "species",
+      "label": "Species",
+      "path": "/packs/species.db",
+      "entity": "Item"
+    }
+  ]
+}
